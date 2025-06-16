@@ -1,0 +1,17 @@
+Type,Indicator,Description,DVS Period,Monthly Period
+1,Autumn Sowing SPI/SPEI,Drought index for autumn sowing and emergence,DVS 0–9,Oct–Nov
+2,Drought at Sowing/Emergence,Drought conditions around sowing/emergence,DVS 0–9,Dec–Mar
+3,Drought during Tillering,Drought during tillering phase,DVS 20–29,Apr
+4,Drought during Stem Elongation,Drought during stem elongation,DVS 30–49,May–Jun
+5,Drought during Flowering & Grain Filling,Drought during reproductive and grain filling stages,DVS 50–89,May–Jun
+6,Drought over Entire Season,Integrated drought over crop life cycle,DVS 0–89,Nov–Jun
+7,Cumulative Rainfall,Total rainfall in main growing season,N/A,Sep–Oct
+8,Days >10mm Rain,Wet days count (>= 10 mm),DVS 20–29,Dec–Mar
+9,Days >40mm Rain (Heavy Rain),Extreme rainfall days (>= 40 mm),DVS 20–29,Dec–Mar
+10,Days >5mm Rain,Moderate rainfall days (>= 5 mm),DVS 51–89,Apr–Jun
+11,Days >40mm Rain (Late Season),Extreme rainfall late season,DVS 51–89,Apr–Jun
+12,Max Consecutive Rain Days (Early),Waterlogging risk from consecutive rainy days,DVS 51–69,Apr–May
+13,Max Consecutive Rain Days (Late),Late-season waterlogging risk,DVS 41–89,Apr–Jun
+14,Frost Days (Tmin ≤ 2°C),Risk of frost damage,DVS 39–69,Mar–May
+15,Heat Stress Days (>31°C),Moderate heat stress,DVS 39–69,May–Jun
+16,Extreme Heat Stress Days (>35°C),Severe heat stress risk,DVS 69–89,May–Jun
