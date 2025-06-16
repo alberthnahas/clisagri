@@ -1,0 +1,12 @@
+PARAMETER_CODE,PARAMETER_XVALUE,PARAMETER_DESCRIPTION
+TSUMEM,100,Temperature sum from sowing to emergence
+TBASEM,8,Base temperature for emergence
+TEFFMX,30,Maximum effective temperature for emergence
+IDSL,0,"Switch for photoperiod sensitivity (0=off, 1=on, 2=vernalisation)"
+DLO,12,Optimal daylength for development
+DLC,8,Critical daylength for development
+DVSI,0,Initial development stage
+DVSEND,2,Development stage at which crop maturity is reached
+VERNSAT,50,Vernalisation requirement in days
+VERNBASE,0,Base temperature for vernalisation
+VERNDVS,0.3,DVS until which vernalisation is effective
